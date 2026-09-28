@@ -1,1 +1,2 @@
 Privet
+Stroka iz main
